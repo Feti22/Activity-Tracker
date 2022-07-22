@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# React-MITT-FLIX
+A fully dynamic React app that used TMDB API to display TV Shows, perform a research for a specific movie and add/remove movies to a watchlist.
+
+## Website:
+https://react-mitt-flix.netlify.app
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
